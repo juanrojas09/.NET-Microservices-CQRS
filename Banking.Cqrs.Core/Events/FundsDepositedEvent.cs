@@ -1,0 +1,14 @@
+﻿
+
+namespace Banking.Cqrs.Core.Events
+{
+    public class FundsDepositedEvent : BaseEvent
+    {
+        public double Amount { get; set; }
+        public FundsDepositedEvent(double amount, string id) : base(id)
+        {
+            Amount = amount;
+        }
+    }
+    
+}

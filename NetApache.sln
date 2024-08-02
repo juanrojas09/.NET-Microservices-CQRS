@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BankingAccount", "BankingAccount", "{45AFC261-0732-4E91-88CC-AE2F2C888D1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{FDC417EB-B0B5-437E-B222-2CB0DDF9DEDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS", "CQRS", "{F024B656-6776-44CF-9F15-18A5EB72FB5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{FEE2B3FB-6477-4935-B48C-4C4939935954}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Query", "Query", "{AA756E07-D22F-4472-AFC9-D33B93992AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking.Cqrs.Core", "Banking.Cqrs.Core\Banking.Cqrs.Core.csproj", "{604AA34E-8C26-44AB-9A6A-5781B1BB7257}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{8E3D97C5-F45A-4839-A40D-5DE6E9A1CB9B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604AA34E-8C26-44AB-9A6A-5781B1BB7257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604AA34E-8C26-44AB-9A6A-5781B1BB7257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604AA34E-8C26-44AB-9A6A-5781B1BB7257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604AA34E-8C26-44AB-9A6A-5781B1BB7257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FDC417EB-B0B5-437E-B222-2CB0DDF9DEDA} = {45AFC261-0732-4E91-88CC-AE2F2C888D1A}
+		{FEE2B3FB-6477-4935-B48C-4C4939935954} = {FDC417EB-B0B5-437E-B222-2CB0DDF9DEDA}
+		{AA756E07-D22F-4472-AFC9-D33B93992AD7} = {FDC417EB-B0B5-437E-B222-2CB0DDF9DEDA}
+		{604AA34E-8C26-44AB-9A6A-5781B1BB7257} = {F024B656-6776-44CF-9F15-18A5EB72FB5C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F9E7D9-F799-419A-89F9-59BFCF45C6C2}
+	EndGlobalSection
+EndGlobal
