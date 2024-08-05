@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Banking.Cqrs.Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Banking.Account.Command.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c8908de6d2f8d4995d8757c2d814c3810188b9")]
-[assembly: System.Reflection.AssemblyProductAttribute("Banking.Cqrs.Core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Banking.Cqrs.Core")]
+[assembly: System.Reflection.AssemblyProductAttribute("Banking.Account.Command.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Banking.Account.Command.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
