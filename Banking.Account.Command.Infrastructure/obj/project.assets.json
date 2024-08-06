@@ -1340,6 +1340,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Banking.Account.Command.Application >= 1.0.0",
+      "Banking.Cqrs.Core >= 1.0.0",
       "Confluent.Kafka >= 2.5.1",
       "Microsoft.Extensions.Configuration.Abstractions >= 8.0.0",
       "Microsoft.Extensions.Options >= 8.0.2",
@@ -1381,6 +1382,9 @@
           "projectReferences": {
             "C:\\NetApache\\NetApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj": {
               "projectPath": "C:\\NetApache\\NetApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj"
+            },
+            "C:\\NetApache\\NetApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj": {
+              "projectPath": "C:\\NetApache\\NetApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj"
             }
           }
         }

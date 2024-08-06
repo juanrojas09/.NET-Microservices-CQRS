@@ -163,6 +163,9 @@
             "projectReferences": {
               "C:\\NetApache\\NetApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj": {
                 "projectPath": "C:\\NetApache\\NetApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj"
+              },
+              "C:\\NetApache\\NetApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj": {
+                "projectPath": "C:\\NetApache\\NetApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj"
               }
             }
           }

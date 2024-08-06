@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Banking.Account.Command.Application\Banking.Account.Command.Application.csproj" />
+    <ProjectReference Include="..\Banking.Cqrs.Core\Banking.Cqrs.Core.csproj" />
   </ItemGroup>
 
 </Project>
