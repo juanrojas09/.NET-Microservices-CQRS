@@ -1,0 +1,16 @@
+C:\NetApache\NetApache\Banking.Account.Command.Domain\bin\Debug\net8.0\Banking.Account.Command.Domain.deps.json
+C:\NetApache\NetApache\Banking.Account.Command.Domain\bin\Debug\net8.0\Banking.Account.Command.Domain.dll
+C:\NetApache\NetApache\Banking.Account.Command.Domain\bin\Debug\net8.0\Banking.Account.Command.Domain.pdb
+C:\NetApache\NetApache\Banking.Account.Command.Domain\bin\Debug\net8.0\Banking.Cqrs.Core.dll
+C:\NetApache\NetApache\Banking.Account.Command.Domain\bin\Debug\net8.0\Banking.Cqrs.Core.pdb
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.csproj.AssemblyReference.cache
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.AssemblyInfoInputs.cache
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.AssemblyInfo.cs
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.csproj.CoreCompileInputs.cache
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.sourcelink.json
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.csproj.CopyComplete
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.dll
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\refint\Banking.Account.Command.Domain.dll
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\Banking.Account.Command.Domain.pdb
+C:\NetApache\NetApache\Banking.Account.Command.Domain\obj\Debug\net8.0\ref\Banking.Account.Command.Domain.dll

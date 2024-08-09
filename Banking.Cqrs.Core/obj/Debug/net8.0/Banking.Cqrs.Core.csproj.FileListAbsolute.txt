@@ -1,0 +1,13 @@
+C:\NetApache\NetApache\Banking.Cqrs.Core\bin\Debug\net8.0\Banking.Cqrs.Core.deps.json
+C:\NetApache\NetApache\Banking.Cqrs.Core\bin\Debug\net8.0\Banking.Cqrs.Core.dll
+C:\NetApache\NetApache\Banking.Cqrs.Core\bin\Debug\net8.0\Banking.Cqrs.Core.pdb
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.csproj.AssemblyReference.cache
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.AssemblyInfoInputs.cache
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.AssemblyInfo.cs
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.csproj.CoreCompileInputs.cache
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.sourcelink.json
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.dll
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\refint\Banking.Cqrs.Core.dll
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\Banking.Cqrs.Core.pdb
+C:\NetApache\NetApache\Banking.Cqrs.Core\obj\Debug\net8.0\ref\Banking.Cqrs.Core.dll
