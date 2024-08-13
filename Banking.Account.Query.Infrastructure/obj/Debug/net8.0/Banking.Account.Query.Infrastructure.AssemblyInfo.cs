@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Banking.Account.Command.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Banking.Account.Query.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c490840eeccfefae35308e92f90eca3690d2a271")]
-[assembly: System.Reflection.AssemblyProductAttribute("Banking.Account.Command.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Banking.Account.Command.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("Banking.Account.Query.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Banking.Account.Query.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
