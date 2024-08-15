@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DCctqKKuFivWe3ohCbS7xtE8pBwLhlM62dKTT+6f0FBGSKah2596my34DF+3HpogAlz6gsdl23NFwZTq4H/VGw==",
+  "dgSpecHash": "meoKdXsGV1WdQUFtOeE0rBy7BB2wRILyb17POPeNZrb5oBs+WY+EVcyf1TB6hHJNtTQhoycT1kByV/Q1CGJ0Sg==",
   "success": true,
   "projectFilePath": "C:\\NetApache\\NetApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj",
   "expectedPackageFiles": [

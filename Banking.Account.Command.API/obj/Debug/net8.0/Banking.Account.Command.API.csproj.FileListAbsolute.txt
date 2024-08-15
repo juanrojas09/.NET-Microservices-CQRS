@@ -1,11 +1,3 @@
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.csproj.AssemblyReference.cache
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.AssemblyInfoInputs.cache
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.AssemblyInfo.cs
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.csproj.CoreCompileInputs.cache
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.MvcApplicationPartsAssemblyInfo.cs
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.MvcApplicationPartsAssemblyInfo.cache
-C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.sourcelink.json
 C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\appsettings.Development.json
 C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\appsettings.json
 C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\Banking.Account.Command.API.exe
@@ -68,6 +60,14 @@ C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\Banking.Acco
 C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\Banking.Account.Command.Infrastructure.pdb
 C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\Banking.Account.Command.Domain.pdb
 C:\NetApache\NetApache\Banking.Account.Command.API\bin\Debug\net8.0\Banking.Cqrs.Core.pdb
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.csproj.AssemblyReference.cache
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.AssemblyInfoInputs.cache
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.AssemblyInfo.cs
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.csproj.CoreCompileInputs.cache
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.MvcApplicationPartsAssemblyInfo.cs
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.MvcApplicationPartsAssemblyInfo.cache
+C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\Banking.Account.Command.API.sourcelink.json
 C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\NetApache\NetApache\Banking.Account.Command.API\obj\Debug\net8.0\staticwebassets\msbuild.Banking.Account.Command.API.Microsoft.AspNetCore.StaticWebAssets.props
