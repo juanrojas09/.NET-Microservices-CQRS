@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jwp+zWh6NuNfVneUBkkGZx2VhBPzjQi9ubqUvfYGR/0=",
+  "Source": "Banking.Account.Query.Consumer",
+  "BasePath": "_content/Banking.Account.Query.Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

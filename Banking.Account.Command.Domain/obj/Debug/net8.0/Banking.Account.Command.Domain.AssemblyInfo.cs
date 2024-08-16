@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banking.Account.Command.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96e8a714b920b8472e1efb66382b80cf8847490a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9843da8f1b6a48c3aba0182ea13d0b08d252f698")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banking.Account.Command.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banking.Account.Command.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

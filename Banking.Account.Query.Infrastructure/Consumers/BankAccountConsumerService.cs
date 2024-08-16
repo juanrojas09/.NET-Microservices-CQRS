@@ -1,4 +1,5 @@
-﻿using Banking.Account.Query.Application.Models;
+﻿using Banking.Account.Query.Application.Contracts.Persistence;
+using Banking.Account.Query.Application.Models;
 using Banking.Account.Query.Domain;
 using Banking.Account.Query.Infrastructure.Repositories;
 using Banking.Cqrs.Core.Events;
@@ -14,7 +15,7 @@ namespace Banking.Account.Query.Infrastructure.Consumers
     public class BankAccountConsumerService : IHostedService
     {
 
-        private readonly BankAccountRepository bankAccountRepository;
+        private readonly IBankAccountRepository bankAccountRepository;
         //credenciales de acceso a mi apache
         public KafkaSettings KafkaSettings { get; }
 
@@ -23,7 +24,7 @@ namespace Banking.Account.Query.Infrastructure.Consumers
         public BankAccountConsumerService(IServiceScopeFactory factory)
         {
             //inyecto el objeto
-            bankAccountRepository=factory.CreateScope().ServiceProvider.GetRequiredService<BankAccountRepository>();
+            bankAccountRepository=factory.CreateScope().ServiceProvider.GetRequiredService<IBankAccountRepository>();
             KafkaSettings = factory.CreateScope().ServiceProvider.GetRequiredService<IOptions<KafkaSettings>>().Value;
 
         }

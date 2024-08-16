@@ -36,7 +36,7 @@ namespace Banking.Account.Query.Infrastructure
             services.AddScoped(typeof(IAsyncRepository<>), typeof(RepositoryBase<>));
             //especifico
            // services.AddScoped<IAsyncRepository<BankAccount>, BankAccountRepository>();
-           // services.AddScoped<IBankAccountRepository, BankAccountRepository>();
+            services.AddScoped<IBankAccountRepository, BankAccountRepository>();
 
 
 
