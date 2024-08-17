@@ -41,7 +41,7 @@ namespace Banking.Account.Query.Infrastructure.Consumers
             //configuracion del consumidor
             var config =new ConsumerConfig { 
             GroupId= KafkaSettings.GroupId,
-            BootstrapServers = $"{KafkaSettings.HostName}:{KafkaSettings.Port}",
+             BootstrapServers = $"{KafkaSettings.HostName}:{KafkaSettings.Port}",
              AutoOffsetReset = AutoOffsetReset.Earliest
             };
 
@@ -84,7 +84,7 @@ namespace Banking.Account.Query.Infrastructure.Consumers
                                     creationDate = accountOpenedEvent.CreatedDate
                                 };
 
-                                bankAccountRepository.AddEntity(bankAccount);
+                                bankAccountRepository.AddAsync(bankAccount);
 
                             }
 

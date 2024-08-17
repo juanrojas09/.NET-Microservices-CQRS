@@ -265,7 +265,7 @@
           "dependencies": {
             "Confluent.Kafka": {
               "target": "Package",
-              "version": "[2.5.2, )"
+              "version": "[1.4.4, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

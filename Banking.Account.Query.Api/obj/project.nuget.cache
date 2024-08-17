@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsLzof5N1AZe8WyhRCS2rjNWo1hrnPXyFTUoI8u+94vcZ/wbi7171Vv5JmM3tl5f4NCIn0ETJ7wzg/MwgrX3QQ==",
+  "dgSpecHash": "VTQn1AYD8aDJ+X7FYv1ZwYQsYP1R535NF+9PYhDpLRdcoLb3fKWqGFsTGN/eb8MFbQi8blqn6Q2tiQJS9ef4ow==",
   "success": true,
   "projectFilePath": "C:\\NetApache\\NetApache\\Banking.Account.Query.Api\\Banking.Account.Query.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
-    "C:\\Users\\Juan Pablo\\.nuget\\packages\\confluent.kafka\\2.5.2\\confluent.kafka.2.5.2.nupkg.sha512",
+    "C:\\Users\\Juan Pablo\\.nuget\\packages\\confluent.kafka\\1.4.4\\confluent.kafka.1.4.4.nupkg.sha512",
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\Juan Pablo\\.nuget\\packages\\librdkafka.redist\\2.5.0\\librdkafka.redist.2.5.0.nupkg.sha512",
+    "C:\\Users\\Juan Pablo\\.nuget\\packages\\librdkafka.redist\\1.4.4\\librdkafka.redist.1.4.4.nupkg.sha512",
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Juan Pablo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
